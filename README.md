@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ralph P 👋
 
-<!--
-**RalphP44/RalphP44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a High School Junior learning programming and game designing
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A Science Based game with progression
+- Learning more game designing
+
+## Skills I'm building
+
+`HTML` · `CSS` · `JavaScript`
+
+## Projects
+
+### Minecraft Mod
+Incorporates new entities and dimensions into the game.  
+**What I learned:** My first version did not support every version, i had to modify it.
+
+## What's next
+
+Looking for Programming Classes.
+
+## Outside of code
+
+Learning to Build a PC
+
+## Reach me
+
+Message me through my GitHub profile.
